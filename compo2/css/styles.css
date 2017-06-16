@@ -1,0 +1,43 @@
+body{
+	
+}
+
+h1{
+	color: white;
+}
+
+.container1{
+	background-color: black;
+}
+
+
+.container2{
+	padding-top: 100px;
+	padding-bottom: 80px;
+	text-align: center;
+	background-color: white;
+	color: white;
+	background-color: black;
+}
+
+.container1 h2{
+	color: white;
+}
+
+
+.footer{
+	background-color: black;
+	margin-top: 60px;
+	padding-top: 40px;
+}
+
+.footer .container6 h2,p,a{
+	color: white;
+}
+
+.container3{
+	text-align: center;
+	float: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
